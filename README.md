@@ -1,6 +1,6 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/typescript.svg">
-TypeScript: Basics Course Seed Plants
+TypeScript: Basics Course Seed
 </h1>
 <h4 align="center">Project seed for our comprehensive introduction to TypeScript course.</h4>
 
