@@ -1,6 +1,6 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/typescript.svg">
-TypeScript: Basics Course Seed
+TypeScript: Basics Course Seed Plants
 </h1>
 <h4 align="center">Project seed for our comprehensive introduction to TypeScript course.</h4>
 
@@ -76,6 +76,6 @@ npm start
 There are several resources used inside this course, of which you can read
 further about to dive deeper or understand in more detail what they are:
 
-* [TypeScript Docs](https://www.typescriptlang.org)
-* [TypeScript Playground](https://www.typescriptlang.org/play)
-* [AST Explorer](https://astexplorer.net)
+- [TypeScript Docs](https://www.typescriptlang.org)
+- [TypeScript Playground](https://www.typescriptlang.org/play)
+- [AST Explorer](https://astexplorer.net)
